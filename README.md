@@ -5,8 +5,9 @@ Using visualization tools to visualize data
     - Using Power BI | DAX 
     - Find insights and make recommendations based on historical data.
 02. Dasboard Report
-    - Power BI | DAX | Power Query | SQL
-    - Relational Database
+    - Power BI | DAX | Power Query
+    - Structured data | Relational Database
+    - Data Wragling
     - Data modeling
     - Complex Metric & Report
 03. Dashboard - Quick Report
